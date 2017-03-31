@@ -5,3 +5,18 @@
 
 body { margin: 0; padding: 0; background-color: #092f6e; color: #fff; }
 
+#world-premiere {
+	font-size: 16px;
+	font-family: 'Teko', sans-serif;
+	width: 500px;
+	margin: 25px auto;
+	border: 1px solid rgba(255,255,255,.2); 
+	background: #092f6e url(satellite_dish.jpg) no-repeat center bottom;
+	min-height: 575px;
+}
+
+#world-premiere .heading {
+	background-color: rgba(0,0,0,.5);
+	padding: 15px 0px 2px 0px;
+	margin: 0px 0px 30px 0px;
+}
